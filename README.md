@@ -3,7 +3,7 @@
 
 # 使用方法
 ```
-git clone git@github.com:dddddd1/vue-ssr-tech.git
+git clone git@github.com:caitianxu/vue-core.git
 ```
 进入项目目录
 ```
@@ -19,4 +19,3 @@ npm run dev
 ```
 开始开发项目
 
-演示地址:http://dbdbdbdb.gitee.io/vue-ssr-tech/dist/
